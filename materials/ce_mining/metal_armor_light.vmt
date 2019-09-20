@@ -1,0 +1,10 @@
+"vertexlitgeneric"
+{
+	"$basetexture" 		"ce_mining/metal_armor_light"
+	"$bumpmap"			"ce_mining/metal_armor_normal"
+	"$surfaceprop" 		"metal"
+	"$model" 			"1"
+	"$envmap"			"env_cubemap"
+	"$envmapsaturation" "1.0"
+	"$envmaptint" 		"[0.1 0.1 0.1]"
+}

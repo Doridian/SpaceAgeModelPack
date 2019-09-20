@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	"$basetexture" 		"ce_mining/glass"
+	"$surfaceprop" 		"glass"
+	"$envmaptint" 		"[0.9 0.9 0.9]"
+	"$envmap" 			"env_cubemap"
+	"$envmapsaturation" "0.2"
+	"$translucent" 		"1"
+	"$bumpmap" 			"ce_mining/glass_bump"
+	"$model" 			"1"
+	"$nocull" 			"0"
+}
+
+

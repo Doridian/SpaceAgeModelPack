@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "mandrac/asteroid/pyrox"
+	"$surfaceprop" "glass"
+	"$bumpmap" "mandrac/asteroid/pyrox_normal"
+	"$phong"     "1"
+	"$halflambert"	1
+ 	"$phongexponent"   "20"
+ 	"$phongboost"   "0.2"
+ 	"$phongfresnelranges"   "[.5 .8 1]"
+}

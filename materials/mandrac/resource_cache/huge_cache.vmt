@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "mandrac/resource_cache/huge_cache"
+	"$bumpmap" "mandrac/resource_cache/huge_cache_normal"
+	"$phong"     "1"
+	"$halflambert"	1
+ 	"$phongexponent"   "60"
+ 	"$phongboost"   "2"
+ 	"$phongfresnelranges"   "[.5 .8 1]"
+}

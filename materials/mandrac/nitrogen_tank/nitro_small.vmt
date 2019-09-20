@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "mandrac/nitrogen_tank/nitro_small"
+	"$bumpmap" "mandrac/nitrogen_tank/nitro_small_normal"
+	"$phong"     "1"
+	"$halflambert"	1
+ 	"$phongexponent"   "60"
+ 	"$phongboost"   "2"
+ 	"$phongfresnelranges"   "[.5 .8 1]"
+}

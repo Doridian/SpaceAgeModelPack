@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "mandrac/water_storage/water_large"
+	"$surfaceprop" "glass"
+	"$bumpmap" "mandrac/water_storage/water_large_normal"
+	"$phong"     "1"
+	"$halflambert"	1
+ 	"$phongexponent"   "60"
+ 	"$phongboost"   "2"
+ 	"$phongfresnelranges"   "[.5 .8 1]"
+}
