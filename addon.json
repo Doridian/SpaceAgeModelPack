@@ -1,0 +1,14 @@
+{
+	"title"		:	"SpaceAge Model Pack",
+	"type"		:	"ServerContent",
+	"tags"		:	[ "roleplay", "realism" ],
+	"ignore"	:
+	[
+		"*.svn*",
+		"*.git*",
+		"*.txt",
+		"*.tga",
+		"*.jpg",
+		"*.ttf"
+	]
+}
