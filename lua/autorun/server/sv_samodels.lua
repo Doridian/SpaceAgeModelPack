@@ -62,5 +62,3 @@ resource.AddFile("materials/models/props/terminal_ref.vtf")
 SA_AddModel("models/ce_sa/advertisement/sa_advert_mini_2")
 SA_AddModel("models/ce_sa/advertisement/sa_advert_mini_1")
 SA_AddMaterial("materials/ce_sa/advertisement/sa_smallinfo")
-
-resource.AddFile("resources/fonts/neuropol.ttf")
