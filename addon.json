@@ -6,10 +6,9 @@
 	[
 		"*.svn*",
 		"*.git*",
-		"*.txt",
+		"info.txt",
 		"*.tga",
 		"*.jpg",
-		"*.ttf",
 		"*.bat"
 	]
 }
