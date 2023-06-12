@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4029506db747ed77d008d6a135ba8192034cff07fd3aabad7d93ca21598a3ec8
-size 183
+"vertexlitgeneric"
+{
+	"$basetexture" 		"ce_miningmodels/miner_bodies/shadowseries/hololabel"
+	"$surfaceprop" 		"plastic"
+	"$selfillum" 		"130"
+	"$model" 			"1"
+	"$translucent"		"1"
+}

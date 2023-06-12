@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7692bfed0eb69b5942af4fd859383c165d143e678bc22ac4e03f7c8d321a14e7
-size 96
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\/chipstiks_mining_models/SmallGreenTower//Green"
+}

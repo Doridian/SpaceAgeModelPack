@@ -1,3 +1,11 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:43375dbf38c5d5a934afbd5f52fe371027d537028597106a1e8a7975c1a7ab69
-size 253
+"VertexLitGeneric"
+{
+	"$basetexture" "mandrac/asteroid/veld"
+	"$surfaceprop" "glass"
+	"$bumpmap" "mandrac/asteroid/veld_normal"
+	"$phong"     "1"
+	"$halflambert"	1
+ 	"$phongexponent"   "60"
+ 	"$phongboost"   "0.2"
+ 	"$phongfresnelranges"   "[.5 .8 1]"
+}

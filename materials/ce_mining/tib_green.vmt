@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:bfaf69b2ff6c51af3635d94590a98d0403297149bfd9c1c28984d09b33376b23
-size 107
+"vertexlitgeneric"
+{
+	"$basetexture" 	"ce_mining/tiberium/tib_green"
+	"$model" 		"1"
+	"$selfillum"	"200"
+}

@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:eae6b7099ee6a88901d69f08f7bf0aad01d5f1302d0d6487148f1395616c0415
-size 115
+"UnlitGeneric"
+{
+	"$basetexture" "VGUI/entities/google"
+	"$vertexcolor" 		1 
+	"$vertexalpha" 		1 
+	"$nolod" 		1 
+}

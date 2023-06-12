@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:72ab178a757046ae63734431fb649301a6322546b1789ce3667278712c24dc63
-size 97
+"VertexlitGeneric"
+{
+	"$basetexture" "models/metal/Miner1_core"
+	"$nocull" 1
+	"$translucent" 1
+}

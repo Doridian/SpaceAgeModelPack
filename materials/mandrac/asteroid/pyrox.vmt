@@ -1,3 +1,11 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:adb5054371fd8606bbc1ef85aa81f65cb7b4dc35cfad092f96e5e5cbd48c74cd
-size 255
+"VertexLitGeneric"
+{
+	"$basetexture" "mandrac/asteroid/pyrox"
+	"$surfaceprop" "glass"
+	"$bumpmap" "mandrac/asteroid/pyrox_normal"
+	"$phong"     "1"
+	"$halflambert"	1
+ 	"$phongexponent"   "20"
+ 	"$phongboost"   "0.2"
+ 	"$phongfresnelranges"   "[.5 .8 1]"
+}

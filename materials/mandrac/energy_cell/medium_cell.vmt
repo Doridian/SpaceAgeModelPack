@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b524b644ca33509112bc207795087adb3ca274b7107c3b6217e574e8a37bed71
-size 247
+"VertexLitGeneric"
+{
+	"$basetexture" "mandrac/energy_cell/medium_cell"
+	"$bumpmap" "mandrac/energy_cell/medium_cell_normal"
+	"$phong"     "1"
+	"$halflambert"	1
+ 	"$phongexponent"   "60"
+ 	"$phongboost"   "2"
+ 	"$phongfresnelranges"   "[.5 .8 1]"
+}

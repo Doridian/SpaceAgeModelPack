@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2957f5aff6fffbcf0e6a4c1e597a737b402b4037fc3356d557c24045e7924f5d
-size 99
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\/chipstiks_mining_models/SmallGreenCrystal//Green2"
+}

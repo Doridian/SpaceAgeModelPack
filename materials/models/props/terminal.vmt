@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c1af7dcef40277a318697406267ae7291c0aefa647ee801167ddb96c0231bfeb
-size 334
+"VertexLitGeneric"
+{
+	"$basetexture" 		"models/props/terminal"
+	"$surfaceprop"		"metal"
+	"$model" 		1
+
+	"$normalmapalphaenvmapmask" "1"
+        "$bumpmap" "models/props/terminal_bump"
+
+	"$phong"		1
+	"$phongexponent"	5		
+	"$phongexponenttexture"	"models/props/terminal_ref"	
+	"$phongboost"		0.3
+	"$phongfresnelranges"	"[0.5 0.5 0.5]"
+}

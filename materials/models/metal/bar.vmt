@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0db6413dbdc3abd421f543f070fc9703a281ccefdefc40c6a862b3d6cd08d926
-size 152
+"VertexlitGeneric"
+{
+	"$basetexture" "models/metal/Bar"
+	"$normalmap" "models/metal/Ore_normal"
+	"$surfaceprop" "Metal"
+	"$translucent" 1
+	"$model" 1
+}

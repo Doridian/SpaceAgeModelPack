@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7bdec79049fd3add78c1ccfaef3863ab11c535326ba1683819e1b7ca59db3a26
-size 129
+"VertexLitGeneric"
+{
+	"$basetexture" "models/metal/Ore"
+	"$model" 1
+	"$surfaceprop" rock
+	"$bumpmap" "models/metal/Ore_normal"
+}

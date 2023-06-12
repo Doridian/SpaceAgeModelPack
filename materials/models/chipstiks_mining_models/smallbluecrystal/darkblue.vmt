@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4850dd7dd38ab3a21a7e2cb8b2be079b92ba1e06d7a4bb478c9347841468c358
-size 100
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\/chipstiks_mining_models/SmallBlueCrystal//DarkBlue"
+}

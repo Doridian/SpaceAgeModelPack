@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:84c716569821cac3dbe140775d396f27ce158bf0148e54f0bf6b20bf2cf8b480
-size 292
+"vertexlitgeneric"
+{
+	"$basetexture" 		"ce_miningmodels/miner_bodies/shadowseries/metal"
+	"$surfaceprop" 		"metal"
+	"$envmaptint" 		"[0.5 0.5 0.5]"
+	"$bumpmap" 			"ce_miningmodels/miner_bodies/shadowseries/metal_bump"
+	"$envmap" 			"env_cubemap"
+	"$envmapsaturation"	"0.3"
+	"$model" 			"1"
+}

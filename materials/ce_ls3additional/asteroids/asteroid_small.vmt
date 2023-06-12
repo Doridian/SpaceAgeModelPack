@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a1cebacd1fce4692837807e069fbae76de55bb3ce5d2baf6997c1ecb31b0306d
-size 161
+"vertexlitgeneric"
+{
+	"$basetexture" 	"ce_ls3additional/asteroids/asteroid_small"
+	"$bumpmap" 	"ce_ls3additional/asteroids/asteroid_small_bump"
+	"$model" 	"1"
+}

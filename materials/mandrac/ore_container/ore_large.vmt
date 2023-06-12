@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:944ae626b8a6fe5d13ed1232b4c3b7a763a5f11a73854886b578d585aa57bbf2
-size 247
+"VertexLitGeneric"
+{
+	"$basetexture" "mandrac/ore_container/ore_large"
+	"$bumpmap" "mandrac/ore_container/ore_large_normal"
+	"$phong"     "1"
+	"$halflambert"	1
+ 	"$phongexponent"   "60"
+ 	"$phongboost"   "2"
+ 	"$phongfresnelranges"   "[.5 .8 1]"
+}

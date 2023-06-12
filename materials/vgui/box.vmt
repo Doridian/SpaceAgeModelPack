@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:df86104766ec73c195b0feceec39f5321e96802936ff725e0ebd1d6b5141a84f
-size 102
+"UnlitGeneric"
+{
+"$basetexture" "VGUI/box"
+"$ignorez"1
+"$vertexcolor" 1
+"$vertexalpha" 1
+"$nolod" 1
+
+}

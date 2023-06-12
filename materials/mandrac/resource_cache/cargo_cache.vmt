@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4ea1489a143a35151071a7ee518ea30ca6eb972dc01ff4800f48554455067335
-size 253
+"VertexLitGeneric"
+{
+	"$basetexture" "mandrac/resource_cache/cargo_cache"
+	"$bumpmap" "mandrac/resource_cache/cargo_cache_normal"
+	"$phong"     "1"
+	"$halflambert"	1
+ 	"$phongexponent"   "60"
+ 	"$phongboost"   "2"
+ 	"$phongfresnelranges"   "[.5 .8 1]"
+}

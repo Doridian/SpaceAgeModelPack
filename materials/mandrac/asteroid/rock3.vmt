@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6f03197d1076cf693b36e237bd82a971440d98b4a845c82bbcb02f3485e70e59
-size 63
+"VertexLitGeneric"
+{
+	"$basetexture" "mandrac/asteroid/rock3"
+}

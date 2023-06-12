@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d169ef9f12ecfc6dfe3734a2626ad2ce8dfba15b6469c3e3c2f45af37f182477
-size 49
+"UnlitGeneric"
+{
+	"$nolod" 1
+	"$translucent" 1
+}

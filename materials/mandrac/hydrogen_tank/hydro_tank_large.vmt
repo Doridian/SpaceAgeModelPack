@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:391bd5e5d73570a6dcc43ef47188431079893347aedb772c32253924b6ab60eb
-size 261
+"VertexLitGeneric"
+{
+	"$basetexture" "mandrac/hydrogen_tank/hydro_tank_large"
+	"$bumpmap" "mandrac/hydrogen_tank/hydro_tank_large_normal"
+	"$phong"     "1"
+	"$halflambert"	1
+ 	"$phongexponent"   "60"
+ 	"$phongboost"   "2"
+ 	"$phongfresnelranges"   "[.5 .8 1]"
+}

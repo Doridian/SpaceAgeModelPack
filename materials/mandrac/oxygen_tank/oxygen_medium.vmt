@@ -1,3 +1,11 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:56cb6681f8e8fd51982f06b4f8a565aa389492d9584d13f6d977864f525323e5
-size 275
+"VertexLitGeneric"
+{
+	"$basetexture" "mandrac/oxygen_tank/oxygen_medium"
+	"$surfaceprop" "glass"
+	"$bumpmap" "mandrac/oxygen_tank/oxygen_medium_normal"
+	"$phong"     "1"
+	"$halflambert"	1
+ 	"$phongexponent"   "60"
+ 	"$phongboost"   "2"
+ 	"$phongfresnelranges"   "[.5 .8 1]"
+}

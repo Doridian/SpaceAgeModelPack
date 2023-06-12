@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5f2ee8fcde7b8ee6e3cc4341030e1a8ee610d7ff39f3aa35f13f3426d96fa29c
-size 125
+"UnlitGeneric"
+{
+	"$basetexture" "spaceage/sa_research_icon"
+	"$ignorez"1
+	"$vertexcolor" 1
+	"$vertexalpha" 1
+	"$nolod" 1
+}
+

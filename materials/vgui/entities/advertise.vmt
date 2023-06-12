@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:704a69f5367b027204f5a03760b00634d305b9f74e3fd399365d818653f693f6
-size 118
+"UnlitGeneric"
+{
+	"$basetexture" "VGUI/entities/advertise"
+	"$vertexcolor" 		1 
+	"$vertexalpha" 		1 
+	"$nolod" 		1 
+}
